@@ -79,3 +79,7 @@ export default defineConfig({
   // },
 });
 
+module.exports = {
+  reporter: 'html',
+};
+

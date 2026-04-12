@@ -28,3 +28,6 @@ npx playwright test
 ## 테스트 결과
 - 총 7개 테스트
 - 7/7 통과 (100%)
+
+## 변경 이력
+[CHANGELOG.md](./CHANGELOG.md) 참고
